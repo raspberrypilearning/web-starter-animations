@@ -4,6 +4,9 @@ A <span style="color: #0faeb0">**CSS animations**</span> are used to grab attent
 
 You can use HTML and CSS to create animations that change elements on a web page.
 
+
+<iframe src="https://trinket.io/embed/html/6900625300?toggleCode=true" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 A CSS `@keyframes` rule can be set to change over time. You can change colour, position, size, rotation and many other properties.
 
 `@keyframes` control how the element should look when a percentage of the running animation is complete.
@@ -18,8 +21,6 @@ The starter animations are:
 + Rollmeright
 + Movemeleft
 + Movemeright
-
-<iframe src="https://trinket.io/embed/html/6900625300?toggleCode=true" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Add the animation as a class to the object you want to animate: 
 
