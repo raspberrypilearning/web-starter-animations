@@ -19,6 +19,8 @@ The starter animations are:
 + Movemeleft
 + Movemeright
 
+<iframe src="https://trinket.io/embed/html/6900625300?toggleCode=true" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 Add the animation as a class to the object you want to animate: 
 
 --- code ---
@@ -45,5 +47,3 @@ line_numbers: false
 </section>
 
 --- /code ---
-
-<iframe src="https://trinket.io/embed/html/6900625300?toggleCode=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
