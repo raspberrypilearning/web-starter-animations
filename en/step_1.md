@@ -1,59 +1,49 @@
-## Introduction
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**CSS animations**</span> are used to grab attention and make a website engaging without slowing down the loading of pages. The animations work by changing one or more properties of an element over a period of time. Examples of animations could be; hover effects, loading images, text animation, particle effects, or animated images. 
+</p>
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can use HTML and CSS to create animations that change elements on a web page.
 
-### What you will make
+A CSS `@keyframes` rule can be set to change over time. You can change colour, position, size, rotation and many other properties.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+`@keyframes` control how the element should look when a percentage of the running animation is complete.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+The starter project contains an `animation.css` file with custom made animations that can be used to bring your content to life. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+The starter animations are:
++ Spinme
++ Bounceme
++ Scaleme
++ Rollmeleft
++ Rollmeright
++ Movemeleft
++ Movemeright
 
---- collapse ---
+Add the animation as a class to the object you want to animate: 
+
+--- code ---
 ---
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
+language: html
+filename: index.html
+line_numbers: false
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+<section class="xcenter">
+  <h2 class="scaleme">Animations</h2>
+</section>
+      
+<section class="xcenter">
+ <p class="bigfont rollmeleft">🐶</p>
+ <p class="bigfont bounceme">🐶</p>
+ <p class="bigfont rollmeright">🐶</p>
+</section>  
+      
+<section class="xcenter">
+  <p class="bigfont movemeleft">🐶</p>
+  <p class="bigfont spinme">🐶</p>
+  <p class="bigfont movemeright">🐶</p>
+</section>
 
---- /collapse ---
+--- /code ---
 
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+<iframe src="https://trinket.io/embed/html/6900625300?toggleCode=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
