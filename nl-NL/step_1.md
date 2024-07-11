@@ -1,16 +1,16 @@
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**CSS animations**</span> are used to grab people's attention and make a website engaging without slowing down how long it takes to load a webpage. The animations work by changing one or more properties of an element over a period of time. Examples of animations are hover effects, loading images, text animation, particle effects, and animated images. 
+<span style="color: #0faeb0">**CSS-animaties**</span> worden gebruikt om de aandacht van mensen te trekken en een website aantrekkelijk te maken zonder het laden van pagina's te vertragen. De animaties werken door een of meer eigenschappen van een element in de loop van de tijd te veranderen. Voorbeelden van animaties zijn hover-effecten, het laden van afbeeldingen, tekstanimatie, deeltjeseffecten en geanimeerde afbeeldingen. 
 </p>
 
-You can use HTML and CSS to create animations that change elements on a webpage.
+Je kunt HTML en CSS gebruiken om animaties te maken die elementen op een webpagina wijzigen.
 
-A CSS `@keyframes` rule can be set to change over time. You can change colour, position, size, rotation, and many other properties.
+Een CSS `@keyframes` regel kan worden ingesteld om na verloop van tijd te veranderen. Je kunt kleur, positie, grootte, rotatie en vele andere eigenschappen veranderen.
 
-`@keyframes` control how the element should look when a percentage of the running animation is complete.
+`@keyframes` bepalen hoe het element eruit moet zien wanneer een percentage van de lopende animatie is voltooid.
 
-The starter project contains an `animation.css` file with custom-made animations that can be used to bring your content to life.
+Het startproject bevat een `animation.css` bestand met op maat gemaakte animaties die kunnen worden gebruikt om je inhoud tot leven te brengen.
 
-The starter animations are:
+De startanimaties zijn:
 
 - `spinme`
 - `bounceme`
@@ -20,7 +20,7 @@ The starter animations are:
 - `movemeleft`
 - `movemeright`
 
-Add the animation as a class to the object you want to animate.
+Voeg de animatie als een class toe aan het object dat je wilt animeren.
 
 ## --- code ---
 
@@ -30,7 +30,7 @@ line_numbers: false
 --------------------------------------------------------
 
 <section class="xcenter">
-  <h2 class="scaleme">Animations</h2>
+  <h2 class="scaleme">Animaties</h2>
 </section>
 
 <section class="xcenter">
