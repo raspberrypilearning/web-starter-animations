@@ -1,16 +1,16 @@
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**CSS animations**</span> are used to grab people's attention and make a website engaging without slowing down how long it takes to load a webpage. The animations work by changing one or more properties of an element over a period of time. Examples of animations are hover effects, loading images, text animation, particle effects, and animated images. 
+<span style="color: #0faeb0">Les animations CSS**</span> sont utilisées pour attirer l'attention des gens et rendre un site web attrayant sans ralentir le temps de chargement d'une page web. Les animations fonctionnent en modifiant une ou plusieurs propriétés d'un élément au cours d'une période donnée. Les exemples d'animations sont les effets de survol, le chargement d'images, l'animation de texte, les effets de particules et les images animées. 
 </p>
 
-You can use HTML and CSS to create animations that change elements on a webpage.
+Tu peux utiliser HTML et CSS pour créer des animations qui modifient les éléments d'une page web.
 
-A CSS `@keyframes` rule can be set to change over time. You can change colour, position, size, rotation, and many other properties.
+Une règle CSS `@keyframes` peut être modifiée au fil du temps. Tu peux modifier la couleur, la position, la taille, la rotation et bien d'autres propriétés.
 
-`@keyframes` control how the element should look when a percentage of the running animation is complete.
+`@keyframes` contrôle l'apparence de l'élément lorsqu'un pourcentage de l'animation en cours est terminé.
 
-The starter project contains an `animation.css` file with custom-made animations that can be used to bring your content to life.
+Le projet de démarrage contient un fichier `animation.css` avec des animations personnalisées qui peuvent être utilisées pour donner vie à ton contenu.
 
-The starter animations are:
+Les animations de démarrage sont :
 
 - `spinme`
 - `bounceme`
@@ -20,7 +20,7 @@ The starter animations are:
 - `movemeleft`
 - `movemeright`
 
-Add the animation as a class to the object you want to animate.
+Ajoute l'animation en tant que classe à l'objet que tu veux animer.
 
 ## --- code ---
 
