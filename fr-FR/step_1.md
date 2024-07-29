@@ -1,5 +1,5 @@
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Les animations CSS**</span> sont utilisées pour attirer l'attention des gens et rendre un site web attrayant sans ralentir le temps de chargement d'une page web. Les animations fonctionnent en modifiant une ou plusieurs propriétés d'un élément au cours d'une période donnée. Les exemples d'animations sont les effets de survol, le chargement d'images, l'animation de texte, les effets de particules et les images animées. 
+<span style="color: #0faeb0">**Les animations CSS**</span> sont utilisées pour attirer l'attention des gens et rendre un site web attrayant sans ralentir le temps de chargement d'une page web. Les animations fonctionnent en modifiant une ou plusieurs propriétés d'un élément au cours d'une période donnée. Les exemples d'animations sont les effets de survol, le chargement d'images, l'animation de texte, les effets de particules et les images animées. 
 </p>
 
 Tu peux utiliser HTML et CSS pour créer des animations qui modifient les éléments d'une page web.
